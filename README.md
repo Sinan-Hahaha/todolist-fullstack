@@ -4,7 +4,7 @@ Kullandığım teknolojiler:
 (Frontend: React - HTML/CSS) 
 (Backend: Node.js , Express)
 (Database: SQL(SQLite))
-////Projenin boş iskeletini oluştur.
+////Projenin boş iskeletini terminalden şu kodlarla oluştur:
 mkdir todo-fullstack -->
 cd todo-fullstack -->
 mkdir backend -->
