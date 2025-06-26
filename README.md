@@ -1,8 +1,9 @@
 # todolist-fullstack
 TodoList - Fullstack
-Frontend: React - HTML/CSS
-Backend: Node.js , Express
-Database: SQL(SQLite)
+Kullandığım teknolojiler:
+(Frontend: React - HTML/CSS) 
+(Backend: Node.js , Express)
+(Database: SQL(SQLite))
 1-)Projenin boş iskeletini oluştur.
 mkdir todo-fullstack -->
 cd todo-fullstack -->
