@@ -14,6 +14,6 @@ cd .. -->
 npx create-react-app frontend -->
 cd frontend --> 
 npm install axios react-router-dom 
-Githubtaki dosyaları projede yerlerine koyduktan sonra terminalden ilk önce backendi node index.js ile çalıştırdıktan sonra frontendi de npm start ile çalıştırabilirsiniz. Eğer frontend çalıştıktan sonra hata alıyorsanız terminalden frontend kısmına gidip npm install axios react-router-dom komutunu çalıştırıp tekrar deneyin
+Githubtaki dosyaları projede yerlerine koyduktan sonra terminalden ilk önce backendi node index.js ile çalıştırdıktan sonra frontendi de npm start ile çalıştırabilirsiniz. Eğer frontend çalıştıktan sonra hata alıyorsanız terminalden frontend kısmına gidip npm install axios react-router-dom komutunu çalıştırıp tekrar frontendi çalıştırmayı deneyin
 
 
